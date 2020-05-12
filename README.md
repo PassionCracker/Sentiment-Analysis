@@ -8,4 +8,9 @@ This repo is the implementation of research papers on Sentiment Analysis using M
 
 The main objective is to classify the text written reviews into either positive/ negative, by gettng insights from training data, fed to a machine learning model. Further improvements in the classification accuracies are achieved by removing useless sentences and retaining only subjective sentences in the review data. This thought process and procedure was mentioned in the sencond paper.
 
+
+Data required to feed the machine learning model is available in 
+   neg , pos, subjective.txt, objective.txt
+The code is well commented and easy to understand.
+
 Final results and conclusions of this repository is to replicate the accuracies provided in the paper. Please pull request to fix any issue if found!
